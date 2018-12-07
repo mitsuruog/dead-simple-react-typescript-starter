@@ -13,16 +13,17 @@
   "author": "mitsuru.ogawa.jp@gmail.com",
   "license": "MIT",
   "dependencies": {
-    "@types/react": "^16.0.38",
-    "@types/react-dom": "^16.0.4",
-    "react": "^16.2.0",
-    "react-dom": "^16.2.0"
+    "@types/react": "^16.7.13",
+    "@types/react-dom": "^16.0.11",
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3"
   },
   "devDependencies": {
-    "awesome-typescript-loader": "^3.4.1",
-    "source-map-loader": "^0.2.3",
-    "typescript": "^2.7.2",
-    "webpack": "^3.11.0",
-    "webpack-dev-server": "^2.11.2"
+    "awesome-typescript-loader": "^5.2.1",
+    "source-map-loader": "^0.2.4",
+    "typescript": "^3.2.1",
+    "webpack": "^4.27.1",
+    "webpack-cli": "^3.1.2",
+    "webpack-dev-server": "^3.1.10"
   }
 }
